@@ -148,6 +148,10 @@ Este processo DIY não apenas resultou em aparelhos funcionais, mas também for�
 
 ---
 
+## 📸 Fotos da Montagem
+
+---
+
 ## 🔗 Licença
 
 Todo o conteúdo, documentação e listas de peças neste repositório estão licenciados sob a **Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)**.
