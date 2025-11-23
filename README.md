@@ -135,19 +135,19 @@ Este processo DIY não apenas resultou em aparelhos funcionais, mas também for�
 ## 📸 Fotos da Montagem
 
 <div align="center">
-  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/iphone13mini3.jpg
+  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/iphone13mini3.jpg/>
 </div>
 
 <div align="center">
-  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(1).png
+  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(1).png/>
 </div>
 
 <div align="center">
-  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(2).png
+  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(2).png/>
 </div>
 
 <div align="center">
-  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(3).png
+  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(3).png/>
 </div>
 
 ---
