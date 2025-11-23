@@ -37,22 +37,6 @@ A ideia era não apenas montar, mas entender cada componente, otimizando custos 
   <img width="600" alt="Imagem das peças internas de um iPhone" src="https://github.com/user-attachments/assets/92cab815-5268-425b-ae12-5f233582ebd2" />
 </div>
 
-#### 🏆 Preview Interativo do iPhone 13 Mini
-
-Para explorar o modelo 3D do dispositivo montado, **clique na imagem abaixo**.
-
-<div align="center">
-  <a href="https://sketchfab.com/3d-models/iphone-mini-f4966ddbd0684439bdd9f1e3b1b224f8" target="_blank">
-    <img src="http://googleusercontent.com/image_generation_content/0" alt="Clique para ver o iPhone 13 Mini em 3D interativo no Sketchfab" width="400" />
-  </a>
-  <br>
-  **Específicos da Montagem:**
-  * **Modelo:** iPhone 13 Mini (Reconstruído a partir de peças)
-  * **Status:** Concluído
-  * **Maiores Desafios:** Calibração de tela e emparelhamento de componentes internos.
-  * **Custo Total (Peças):** [Inserir Custo Estimado Aqui]
-</div>
-<br>
 
 ### 2. O Retorno à Dobra: Samsung Galaxy Z Flip 5
 
@@ -149,6 +133,30 @@ Este processo DIY não apenas resultou em aparelhos funcionais, mas também for�
 ---
 
 ## 📸 Fotos da Montagem
+
+<div align="center">
+  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/iphone13mini%20(1).mp4
+</div>
+
+<div align="center">
+  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/iphone13mini2.mp4
+</div>
+
+<div align="center">
+  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/iphone13mini3.jpg
+</div>
+
+<div align="center">
+  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(1).png
+</div>
+
+<div align="center">
+  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(2).png
+</div>
+
+<div align="center">
+  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(3).png
+</div>
 
 ---
 
