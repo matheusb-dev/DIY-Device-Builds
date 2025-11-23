@@ -43,7 +43,8 @@ A ideia era não apenas montar, mas entender cada componente, otimizando custos 
 Enquanto o iPhone 13 Mini resgata a forma compacta, o segundo desafio — o **Samsung Galaxy Z Flip 5** — foi uma viagem ainda mais nostálgica. A ideia de montar um *flip phone* moderno veio através de vídeos no YouTube que celebravam os icônicos celulares antigos, como o **Motorola Razr**.
 
 <div align="center">
-  <img width="400" alt="Motorola Razr antigo, aberto e fechado" src="https://github.com/user-attachments/assets/cd3d27.png" />
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/13ca4c1c-4ee9-4c07-b62b-ed6e61e29a6e" />
+" />
 </div>
 <br>
 
@@ -135,20 +136,20 @@ Este processo DIY não apenas resultou em aparelhos funcionais, mas também for�
 ## 📸 Fotos da Montagem
 
 <div align="center">
-  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/iphone13mini3.jpg/>
-</div>
+  <img width="200" alt="iPhone" src="https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/iphone13mini3.jpg" />
+  <img width="200" alt="Zflip" src="https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(1).png" />
+  <img width="200" alt="Zflip" src="https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(2).png" />
+  <img width="200" alt="Zflip" src="https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(3).png" />
+</div
+  
+---
+## 📅 Futuras Atualizações e Planejamento
 
-<div align="center">
-  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(1).png/>
-</div>
+O sucesso dos projetos atuais abre caminho para otimizações e novos desafios. Os próximos passos incluem:
 
-<div align="center">
-  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(2).png/>
-</div>
-
-<div align="center">
-  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/zflip%20(3).png/>
-</div>
+* **Otimização Térmica:** Implementação de **placas térmicas** ou filmes de grafeno de alta performance para aprimorar a dissipação de calor nas placas lógicas do iPhone e Galaxy, melhorando o desempenho sob carga.
+* **Melhoria na Vedação:** Reforço na resistência à água e poeira, usando adesivos e selantes de grau industrial nos pontos críticos de vedação (especialmente no Apple Watch e na tela do iPhone).
+* **Bateria Customizada:** Pesquisa de células de bateria de densidade energética ainda maior para maximizar a autonomia dos dispositivos.
 
 ---
 
