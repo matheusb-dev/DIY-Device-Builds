@@ -135,14 +135,6 @@ Este processo DIY não apenas resultou em aparelhos funcionais, mas também for�
 ## 📸 Fotos da Montagem
 
 <div align="center">
-  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/iphone13mini%20(1).mp4
-</div>
-
-<div align="center">
-  <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/iphone13mini2.mp4
-</div>
-
-<div align="center">
   <img width="400"https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/iphone13mini3.jpg
 </div>
 
