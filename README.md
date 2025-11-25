@@ -152,6 +152,9 @@ O sucesso dos projetos atuais abre caminho para otimizações e novos desafios. 
 * **Bateria Customizada:** Pesquisa de células de bateria de densidade energética ainda maior para maximizar a autonomia dos dispositivos.
 
 ---
+## 📱 Big Three
+
+---
 
 ## 🔗 Licença
 
