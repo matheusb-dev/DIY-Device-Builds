@@ -154,6 +154,10 @@ O sucesso dos projetos atuais abre caminho para otimizações e novos desafios. 
 ---
 ## 📱 Big Three
 
+<div align="center">
+  <img width="600" alt="iPhone" src="https://github.com/matheusb-dev/DIY-Device-Builds/blob/main/images/_-Big-Three.png" />
+</div
+
 ---
 
 ## 🔗 Licença
